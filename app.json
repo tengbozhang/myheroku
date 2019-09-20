@@ -1,0 +1,8 @@
+{
+  "name": "V2Ray Easy To Use",
+  "description": "Deploy V2Ray(ws+tls+web) to Heroku easily.",
+  "keywords": ["V2Ray"],
+  "website": "https://github.com/engbozhang/myheroku",
+  "repository": "https://github.com/tengbozhang/myheroku",
+  "stack": "container"
+ }
