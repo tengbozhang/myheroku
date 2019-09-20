@@ -1,14 +1,14 @@
 {
-  "name": "V2ray 3.10",
+  "name": "V2ray 4.20.0",
   "description": "deploy V2ray to Heroku.",
   "keywords": ["V2ray"],
   "env": {
      "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
+       "value": "91cb41c9-c7dd-4cc7-ab57-802d5e8c6ceb"
      }   
   },
-  "website": "https://github.com/wangyi2005/v2ray-heroku",
-  "repository": "https://github.com/wangyi2005/v2ray-heroku",
+  "website": "https://github.com/tengbozhang/v2ray-heroku",
+  "repository": "https://github.com/tengbozhang/v2ray-heroku",
   "stack": "container"
  }
